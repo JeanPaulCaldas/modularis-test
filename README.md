@@ -1,6 +1,8 @@
 # Modularis Test
 Modularis Code Test
 
+**Note: VS solution file is inside ./ModularisTest directory**
+
 The code is used to log different messages throughout an application. We want to improve the source code by allowing: 
 
 - Log messages to different destinations such as text files, console, databases, etc. A message can be logged to multiple destinations at a time.
